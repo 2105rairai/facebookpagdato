@@ -21,7 +21,7 @@ class _CustomMainState extends State<CustomMain> {
     const ReelsPage(),
     const FriendsPage(),
     const MarketplacePage(),
-    const NotificationPage(),
+    const NotificationsPage(),
     const ProfilePage(),
   ];
 
